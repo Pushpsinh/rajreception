@@ -4,8 +4,10 @@
   }  
 
 #invitation{
-    background:url(../images/tinv.jpg) no-repeat left center / cover;
+    background:url(../images/bg_pink.jpeg) no-repeat left center / cover;
     background-attachment: fixed;
+    color: black;
+    /* text-shadow: 2px 2px #fff; */
   }
 
 .bannerSix{
